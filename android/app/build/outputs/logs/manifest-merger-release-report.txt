@@ -1,0 +1,694 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:1:1-17:12
+MERGED from [:react-native-fbsdk] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\react-native-fbsdk\android\build\intermediates\library_manifest\release\AndroidManifest.xml:21:1-28:12
+MERGED from [:react-native-firebase_auth] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-firebase_app] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\ca0026c8acfc23882fb54f72e35c6173\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-community_google-signin] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\@react-native-community\google-signin\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_masked-view] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\07fe35fea92a71571caccbb6f423c2ac\jetified-react-native-0.63.4\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-analytics:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\213bb153f9f50f6106e48c9548eefde0\firebase-analytics-18.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.android:facebook-android-sdk:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f8ce798eda1128582238cb3ff7bd544f\facebook-android-sdk-7.1.0\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\5d31b8cb94fe5d7a541f13f07f1f0ee9\facebook-login-8.2.0\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-gamingservices:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\1d4e8d6b02a163814d067b59c2e4915b\facebook-gamingservices-8.2.0\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\73207523d77b2020d733273a0e5b7f15\facebook-share-8.2.0\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:21:1-52:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\80cbf5533aa6325e0ee8e926e98117b8\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\c110701c1217b47e4d4016bb179867c8\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\d9485d72d74db8e9ca3af54700144b99\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\850a4541ab4883fb26d763d5d0282ae0\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\496710a2f742d31e48656e94f594acc9\android-jsc-r245459\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:17:1-83:12
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\2ebf2a67f3cb2538455b4f3d737e5ec9\play-services-measurement-api-18.0.2\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f3c86ba4c101d229ee03833efd9b8b77\firebase-auth-interop-19.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\faa12682808aca914f0356ce3b2a73aa\firebase-installations-16.3.5\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:15:1-49:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\c394f5edc2252570752e8909feaa55c7\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\cc8827d615ff61138c7e16d3c819df17\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\3e4272ede34b54b24feb26fc93c14e02\fresco-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\4e6864562b01cfd728e596ef5294b5ab\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\86e1d1ab0150c776d61fd9b99ea08002\drawee-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\56f32dbc4a330eeee5ab731014370b5d\nativeimagefilters-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\6c183978059f1743e4e3e5a95584b06f\imagepipeline-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\29f024c3af74760a5533405788944325\nativeimagetranscoder-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\4d17478a027267071a9333d8faf88daf\imagepipeline-base-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\11d6d18c5445c60079ba6dae527dcefb\soloader-0.9.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\aa9634102423a77da6d38422f5bd55c2\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\37c2487a9ef55fd26c1f742671098849\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f196b6c2d5c83d72254b5e815e353349\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dfaef8b9e72bd01d06d0dc86b3251505\play-services-auth-19.0.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\939a60cbf3554651574044219708c744\play-services-auth-base-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\d9b7b27dde48b7d065d5a9b417d80105\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f18d8056a666785c6d3bce1418db56a1\play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\64bcb6444e11a926f4391a45b0a023fa\play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\7b552d590a35046c703c047f885c4fe6\play-services-measurement-sdk-18.0.2\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\49362ac067d0425c9f6d47468c191783\firebase-installations-interop-16.0.1\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\1578659dc4a22fd09f788236de77e788\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\ed819be9eab936aa8ae49a502e1eb5af\play-services-measurement-impl-18.0.2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\14846ab6ac5cc78a9af43f3e9b13ce82\play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f069423775e482a44bb52f03767da432\play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\afbf72cde085276f6bb6de1213db6f3a\play-services-measurement-base-18.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\c0937920e93debdd2882b12e427f3dbd\play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\7ce7694b0aaa3e4c03b9e32dd883095a\firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f228aaacfae1b107b592e1b726979248\jetified-play-services-basement-17.1.1\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\41a73c8754bf1f676d801415c373111b\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f563d24144d6f931d802c7f03a6a6333\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\80fc0a91557d8c06544bb0254f2ad039\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.android:facebook-applinks:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\58bffa1e108a1107661becd3a98f20cf\facebook-applinks-8.2.0\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a4b7251ac31f592c3bbacc8f10e0cc09\facebook-messenger-8.2.0\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fbd1bdaf70a2db0fea009063bcb82ed8\jetified-facebook-core-8.2.0\AndroidManifest.xml:21:1-53:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\1406789172f34aee7cfeb86f593c5457\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\96ae9694cd4f644c476795e144b9a91f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\10e4adaff44a9259edbb697161eeb688\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\9efca7dcc30c22b11e5571f6a6e24c60\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\6795bbcffbf1b0a3991321eb4df0db60\activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dc099d0573f948fe5d25060cdd4a1b5d\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\2e983c7b6fc23a94bb8a0303d81f6c34\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\951ff867f1d5a22bc93405b0f5e9de3b\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f267b04cc2ce18d50d3f8c260f215ccf\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dcc29666bb13b94a8ed6158eef1929a0\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\c6b3a849942b27aeaf9d9cc459c3d2d0\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\4a9293f4d061e24f6f1ec669618f86ad\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\62b948af8f2998775b21565bc31de6c6\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\7b5b66bf310ba91e403b852e18af4287\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\efe53a197dbda063f75ebd44f42e94c1\jetified-firebase-components-16.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\bd2eac3432ff09fa2ba6913a4c0b8599\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\b626088f5dabd5ce21ea6ac59a615983\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\b6dce8e92fb63bba0eb459e014ee887e\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fab13738e6a531ca27db783581eb5b51\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fb0ae3b99f61d04214536338cd49284a\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f76a3e7cef3a020b395b290f59398431\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\93634139a49306b816b6c4a800b972d1\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\93f0e0b7dc312cdfa381c92f85585469\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\91172a2b1f82fa7f15f600cff5107248\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\68027769ca9c90ba0bf36074f9ebf1db\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fadfb2c0609ce6130584805df8e5eff\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fef76c39a9a97be0456f9eb88d7bd993\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\6834e366fa481e260f3ad21920da0802\jetified-fbcore-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f9da74d3852297c72dfcd1385a860318\jetified-installreferrer-1.0\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:1:1-17:12
+	package
+		ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:1:70-96
+		INJECTED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:1:1-17:12
+		INJECTED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:1:1-17:12
+		INJECTED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:3:3-65
+MERGED from [:react-native-firebase_auth] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_auth] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\2ebf2a67f3cb2538455b4f3d737e5ec9\play-services-measurement-api-18.0.2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\2ebf2a67f3cb2538455b4f3d737e5ec9\play-services-measurement-api-18.0.2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\faa12682808aca914f0356ce3b2a73aa\firebase-installations-16.3.5\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\faa12682808aca914f0356ce3b2a73aa\firebase-installations-16.3.5\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\ed819be9eab936aa8ae49a502e1eb5af\play-services-measurement-impl-18.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\ed819be9eab936aa8ae49a502e1eb5af\play-services-measurement-impl-18.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f069423775e482a44bb52f03767da432\play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f069423775e482a44bb52f03767da432\play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:3:20-62
+application
+ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:5:3-15:17
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\07fe35fea92a71571caccbb6f423c2ac\jetified-react-native-0.63.4\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\07fe35fea92a71571caccbb6f423c2ac\jetified-react-native-0.63.4\AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-analytics:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\213bb153f9f50f6106e48c9548eefde0\firebase-analytics-18.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\213bb153f9f50f6106e48c9548eefde0\firebase-analytics-18.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f8ce798eda1128582238cb3ff7bd544f\facebook-android-sdk-7.1.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f8ce798eda1128582238cb3ff7bd544f\facebook-android-sdk-7.1.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\5d31b8cb94fe5d7a541f13f07f1f0ee9\facebook-login-8.2.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\5d31b8cb94fe5d7a541f13f07f1f0ee9\facebook-login-8.2.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-gamingservices:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\1d4e8d6b02a163814d067b59c2e4915b\facebook-gamingservices-8.2.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-gamingservices:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\1d4e8d6b02a163814d067b59c2e4915b\facebook-gamingservices-8.2.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\73207523d77b2020d733273a0e5b7f15\facebook-share-8.2.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\73207523d77b2020d733273a0e5b7f15\facebook-share-8.2.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:29:5-50:19
+MERGED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:29:5-50:19
+MERGED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\2ebf2a67f3cb2538455b4f3d737e5ec9\play-services-measurement-api-18.0.2\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\2ebf2a67f3cb2538455b4f3d737e5ec9\play-services-measurement-api-18.0.2\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f3c86ba4c101d229ee03833efd9b8b77\firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f3c86ba4c101d229ee03833efd9b8b77\firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\faa12682808aca914f0356ce3b2a73aa\firebase-installations-16.3.5\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\faa12682808aca914f0356ce3b2a73aa\firebase-installations-16.3.5\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\c394f5edc2252570752e8909feaa55c7\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\c394f5edc2252570752e8909feaa55c7\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\11d6d18c5445c60079ba6dae527dcefb\soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\11d6d18c5445c60079ba6dae527dcefb\soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dfaef8b9e72bd01d06d0dc86b3251505\play-services-auth-19.0.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dfaef8b9e72bd01d06d0dc86b3251505\play-services-auth-19.0.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f18d8056a666785c6d3bce1418db56a1\play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f18d8056a666785c6d3bce1418db56a1\play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\64bcb6444e11a926f4391a45b0a023fa\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\64bcb6444e11a926f4391a45b0a023fa\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\7b552d590a35046c703c047f885c4fe6\play-services-measurement-sdk-18.0.2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\7b552d590a35046c703c047f885c4fe6\play-services-measurement-sdk-18.0.2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\1578659dc4a22fd09f788236de77e788\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\1578659dc4a22fd09f788236de77e788\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\ed819be9eab936aa8ae49a502e1eb5af\play-services-measurement-impl-18.0.2\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\ed819be9eab936aa8ae49a502e1eb5af\play-services-measurement-impl-18.0.2\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\14846ab6ac5cc78a9af43f3e9b13ce82\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\14846ab6ac5cc78a9af43f3e9b13ce82\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\afbf72cde085276f6bb6de1213db6f3a\play-services-measurement-base-18.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\afbf72cde085276f6bb6de1213db6f3a\play-services-measurement-base-18.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\c0937920e93debdd2882b12e427f3dbd\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\c0937920e93debdd2882b12e427f3dbd\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\7ce7694b0aaa3e4c03b9e32dd883095a\firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\7ce7694b0aaa3e4c03b9e32dd883095a\firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f228aaacfae1b107b592e1b726979248\jetified-play-services-basement-17.1.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f228aaacfae1b107b592e1b726979248\jetified-play-services-basement-17.1.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.android:facebook-applinks:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\58bffa1e108a1107661becd3a98f20cf\facebook-applinks-8.2.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\58bffa1e108a1107661becd3a98f20cf\facebook-applinks-8.2.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a4b7251ac31f592c3bbacc8f10e0cc09\facebook-messenger-8.2.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a4b7251ac31f592c3bbacc8f10e0cc09\facebook-messenger-8.2.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fbd1bdaf70a2db0fea009063bcb82ed8\jetified-facebook-core-8.2.0\AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fbd1bdaf70a2db0fea009063bcb82ed8\jetified-facebook-core-8.2.0\AndroidManifest.xml:28:5-51:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\62b948af8f2998775b21565bc31de6c6\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\62b948af8f2998775b21565bc31de6c6\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\bd2eac3432ff09fa2ba6913a4c0b8599\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\bd2eac3432ff09fa2ba6913a4c0b8599\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f9da74d3852297c72dfcd1385a860318\jetified-installreferrer-1.0\AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f9da74d3852297c72dfcd1385a860318\jetified-installreferrer-1.0\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\62b948af8f2998775b21565bc31de6c6\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-android-sdk:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f8ce798eda1128582238cb3ff7bd544f\facebook-android-sdk-7.1.0\AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:5:64-96
+	android:roundIcon
+		ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:5:132-177
+	android:icon
+		ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:5:97-131
+	android:allowBackup
+		ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:5:178-205
+	android:theme
+		ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:5:206-237
+	android:name
+		ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:5:16-63
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:6:5-104
+	android:value
+		ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:6:62-101
+	android:name
+		ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:6:16-61
+activity#com.firebaseotp1.MainActivity
+ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:7:5-12:16
+	android:label
+		ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:7:60-92
+	android:launchMode
+		ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:7:171-202
+	android:windowSoftInputMode
+		ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:7:203-245
+	android:configChanges
+		ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:7:93-170
+	android:name
+		ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:7:15-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:8:7-11:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:9:9-61
+	android:name
+		ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:9:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:10:9-69
+	android:name
+		ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:10:19-66
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:13:5-82
+	android:name
+		ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:13:15-79
+uses-sdk
+INJECTED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-fbsdk] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\react-native-fbsdk\android\build\intermediates\library_manifest\release\AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-fbsdk] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\react-native-fbsdk\android\build\intermediates\library_manifest\release\AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-firebase_auth] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_auth] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\ca0026c8acfc23882fb54f72e35c6173\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\ca0026c8acfc23882fb54f72e35c6173\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [:react-native-community_google-signin] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\@react-native-community\google-signin\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_google-signin] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\@react-native-community\google-signin\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_masked-view] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\07fe35fea92a71571caccbb6f423c2ac\jetified-react-native-0.63.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\07fe35fea92a71571caccbb6f423c2ac\jetified-react-native-0.63.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-analytics:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\213bb153f9f50f6106e48c9548eefde0\firebase-analytics-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\213bb153f9f50f6106e48c9548eefde0\firebase-analytics-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.android:facebook-android-sdk:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f8ce798eda1128582238cb3ff7bd544f\facebook-android-sdk-7.1.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f8ce798eda1128582238cb3ff7bd544f\facebook-android-sdk-7.1.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\5d31b8cb94fe5d7a541f13f07f1f0ee9\facebook-login-8.2.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\5d31b8cb94fe5d7a541f13f07f1f0ee9\facebook-login-8.2.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-gamingservices:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\1d4e8d6b02a163814d067b59c2e4915b\facebook-gamingservices-8.2.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-gamingservices:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\1d4e8d6b02a163814d067b59c2e4915b\facebook-gamingservices-8.2.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\73207523d77b2020d733273a0e5b7f15\facebook-share-8.2.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\73207523d77b2020d733273a0e5b7f15\facebook-share-8.2.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:25:5-27:41
+MERGED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:25:5-27:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\80cbf5533aa6325e0ee8e926e98117b8\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\80cbf5533aa6325e0ee8e926e98117b8\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\c110701c1217b47e4d4016bb179867c8\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\c110701c1217b47e4d4016bb179867c8\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\d9485d72d74db8e9ca3af54700144b99\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\d9485d72d74db8e9ca3af54700144b99\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\850a4541ab4883fb26d763d5d0282ae0\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\850a4541ab4883fb26d763d5d0282ae0\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\496710a2f742d31e48656e94f594acc9\android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\496710a2f742d31e48656e94f594acc9\android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\2ebf2a67f3cb2538455b4f3d737e5ec9\play-services-measurement-api-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\2ebf2a67f3cb2538455b4f3d737e5ec9\play-services-measurement-api-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f3c86ba4c101d229ee03833efd9b8b77\firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f3c86ba4c101d229ee03833efd9b8b77\firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\faa12682808aca914f0356ce3b2a73aa\firebase-installations-16.3.5\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\faa12682808aca914f0356ce3b2a73aa\firebase-installations-16.3.5\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\c394f5edc2252570752e8909feaa55c7\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\c394f5edc2252570752e8909feaa55c7\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\cc8827d615ff61138c7e16d3c819df17\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\cc8827d615ff61138c7e16d3c819df17\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\3e4272ede34b54b24feb26fc93c14e02\fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\3e4272ede34b54b24feb26fc93c14e02\fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\4e6864562b01cfd728e596ef5294b5ab\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\4e6864562b01cfd728e596ef5294b5ab\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\86e1d1ab0150c776d61fd9b99ea08002\drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\86e1d1ab0150c776d61fd9b99ea08002\drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\56f32dbc4a330eeee5ab731014370b5d\nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\56f32dbc4a330eeee5ab731014370b5d\nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\6c183978059f1743e4e3e5a95584b06f\imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\6c183978059f1743e4e3e5a95584b06f\imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\29f024c3af74760a5533405788944325\nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\29f024c3af74760a5533405788944325\nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\4d17478a027267071a9333d8faf88daf\imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\4d17478a027267071a9333d8faf88daf\imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\11d6d18c5445c60079ba6dae527dcefb\soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\11d6d18c5445c60079ba6dae527dcefb\soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\aa9634102423a77da6d38422f5bd55c2\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\aa9634102423a77da6d38422f5bd55c2\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\37c2487a9ef55fd26c1f742671098849\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\37c2487a9ef55fd26c1f742671098849\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f196b6c2d5c83d72254b5e815e353349\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f196b6c2d5c83d72254b5e815e353349\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dfaef8b9e72bd01d06d0dc86b3251505\play-services-auth-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dfaef8b9e72bd01d06d0dc86b3251505\play-services-auth-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\939a60cbf3554651574044219708c744\play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\939a60cbf3554651574044219708c744\play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\d9b7b27dde48b7d065d5a9b417d80105\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\d9b7b27dde48b7d065d5a9b417d80105\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f18d8056a666785c6d3bce1418db56a1\play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f18d8056a666785c6d3bce1418db56a1\play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\64bcb6444e11a926f4391a45b0a023fa\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\64bcb6444e11a926f4391a45b0a023fa\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\7b552d590a35046c703c047f885c4fe6\play-services-measurement-sdk-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\7b552d590a35046c703c047f885c4fe6\play-services-measurement-sdk-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\49362ac067d0425c9f6d47468c191783\firebase-installations-interop-16.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\49362ac067d0425c9f6d47468c191783\firebase-installations-interop-16.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\1578659dc4a22fd09f788236de77e788\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\1578659dc4a22fd09f788236de77e788\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\ed819be9eab936aa8ae49a502e1eb5af\play-services-measurement-impl-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\ed819be9eab936aa8ae49a502e1eb5af\play-services-measurement-impl-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\14846ab6ac5cc78a9af43f3e9b13ce82\play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\14846ab6ac5cc78a9af43f3e9b13ce82\play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f069423775e482a44bb52f03767da432\play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f069423775e482a44bb52f03767da432\play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\afbf72cde085276f6bb6de1213db6f3a\play-services-measurement-base-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\afbf72cde085276f6bb6de1213db6f3a\play-services-measurement-base-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\c0937920e93debdd2882b12e427f3dbd\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\c0937920e93debdd2882b12e427f3dbd\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\7ce7694b0aaa3e4c03b9e32dd883095a\firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\7ce7694b0aaa3e4c03b9e32dd883095a\firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f228aaacfae1b107b592e1b726979248\jetified-play-services-basement-17.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f228aaacfae1b107b592e1b726979248\jetified-play-services-basement-17.1.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\41a73c8754bf1f676d801415c373111b\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\41a73c8754bf1f676d801415c373111b\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f563d24144d6f931d802c7f03a6a6333\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f563d24144d6f931d802c7f03a6a6333\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\80fc0a91557d8c06544bb0254f2ad039\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\80fc0a91557d8c06544bb0254f2ad039\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.android:facebook-applinks:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\58bffa1e108a1107661becd3a98f20cf\facebook-applinks-8.2.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\58bffa1e108a1107661becd3a98f20cf\facebook-applinks-8.2.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a4b7251ac31f592c3bbacc8f10e0cc09\facebook-messenger-8.2.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a4b7251ac31f592c3bbacc8f10e0cc09\facebook-messenger-8.2.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fbd1bdaf70a2db0fea009063bcb82ed8\jetified-facebook-core-8.2.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fbd1bdaf70a2db0fea009063bcb82ed8\jetified-facebook-core-8.2.0\AndroidManifest.xml:24:5-26:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\1406789172f34aee7cfeb86f593c5457\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\1406789172f34aee7cfeb86f593c5457\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\96ae9694cd4f644c476795e144b9a91f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\96ae9694cd4f644c476795e144b9a91f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\10e4adaff44a9259edbb697161eeb688\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\10e4adaff44a9259edbb697161eeb688\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\9efca7dcc30c22b11e5571f6a6e24c60\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\9efca7dcc30c22b11e5571f6a6e24c60\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\6795bbcffbf1b0a3991321eb4df0db60\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\6795bbcffbf1b0a3991321eb4df0db60\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dc099d0573f948fe5d25060cdd4a1b5d\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dc099d0573f948fe5d25060cdd4a1b5d\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\2e983c7b6fc23a94bb8a0303d81f6c34\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\2e983c7b6fc23a94bb8a0303d81f6c34\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\951ff867f1d5a22bc93405b0f5e9de3b\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\951ff867f1d5a22bc93405b0f5e9de3b\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f267b04cc2ce18d50d3f8c260f215ccf\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f267b04cc2ce18d50d3f8c260f215ccf\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dcc29666bb13b94a8ed6158eef1929a0\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dcc29666bb13b94a8ed6158eef1929a0\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\c6b3a849942b27aeaf9d9cc459c3d2d0\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\c6b3a849942b27aeaf9d9cc459c3d2d0\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\4a9293f4d061e24f6f1ec669618f86ad\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\4a9293f4d061e24f6f1ec669618f86ad\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\62b948af8f2998775b21565bc31de6c6\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\62b948af8f2998775b21565bc31de6c6\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\7b5b66bf310ba91e403b852e18af4287\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\7b5b66bf310ba91e403b852e18af4287\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\efe53a197dbda063f75ebd44f42e94c1\jetified-firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\efe53a197dbda063f75ebd44f42e94c1\jetified-firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\bd2eac3432ff09fa2ba6913a4c0b8599\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\bd2eac3432ff09fa2ba6913a4c0b8599\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\b626088f5dabd5ce21ea6ac59a615983\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\b626088f5dabd5ce21ea6ac59a615983\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\b6dce8e92fb63bba0eb459e014ee887e\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\b6dce8e92fb63bba0eb459e014ee887e\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fab13738e6a531ca27db783581eb5b51\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fab13738e6a531ca27db783581eb5b51\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fb0ae3b99f61d04214536338cd49284a\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fb0ae3b99f61d04214536338cd49284a\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f76a3e7cef3a020b395b290f59398431\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f76a3e7cef3a020b395b290f59398431\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\93634139a49306b816b6c4a800b972d1\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\93634139a49306b816b6c4a800b972d1\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\93f0e0b7dc312cdfa381c92f85585469\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\93f0e0b7dc312cdfa381c92f85585469\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\91172a2b1f82fa7f15f600cff5107248\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\91172a2b1f82fa7f15f600cff5107248\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\68027769ca9c90ba0bf36074f9ebf1db\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\68027769ca9c90ba0bf36074f9ebf1db\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fadfb2c0609ce6130584805df8e5eff\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fadfb2c0609ce6130584805df8e5eff\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fef76c39a9a97be0456f9eb88d7bd993\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fef76c39a9a97be0456f9eb88d7bd993\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\6834e366fa481e260f3ad21920da0802\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\6834e366fa481e260f3ad21920da0802\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f9da74d3852297c72dfcd1385a860318\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f9da74d3852297c72dfcd1385a860318\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase_auth] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\2ebf2a67f3cb2538455b4f3d737e5ec9\play-services-measurement-api-18.0.2\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\2ebf2a67f3cb2538455b4f3d737e5ec9\play-services-measurement-api-18.0.2\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\ed819be9eab936aa8ae49a502e1eb5af\play-services-measurement-impl-18.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\ed819be9eab936aa8ae49a502e1eb5af\play-services-measurement-impl-18.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f069423775e482a44bb52f03767da432\play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f069423775e482a44bb52f03767da432\play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-firebase_auth] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase_auth] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\2ebf2a67f3cb2538455b4f3d737e5ec9\play-services-measurement-api-18.0.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\2ebf2a67f3cb2538455b4f3d737e5ec9\play-services-measurement-api-18.0.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\faa12682808aca914f0356ce3b2a73aa\firebase-installations-16.3.5\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\faa12682808aca914f0356ce3b2a73aa\firebase-installations-16.3.5\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\ed819be9eab936aa8ae49a502e1eb5af\play-services-measurement-impl-18.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\ed819be9eab936aa8ae49a502e1eb5af\play-services-measurement-impl-18.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f069423775e482a44bb52f03767da432\play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f069423775e482a44bb52f03767da432\play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:react-native-firebase_auth] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:22-76
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:30:9-33:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:32:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:33:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:31:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:34:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:34:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:35:9-49:20
+	tools:node
+		ADDED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:38:13-31
+	android:exported
+		ADDED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:36:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.${applicationId}+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:39:13-48:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.firebaseotp1+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:39:13-48:29
+action#android.intent.action.VIEW
+ADDED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:40:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:42:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:43:17-78
+	android:name
+		ADDED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:43:27-75
+data
+ADDED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:45:17-47:50
+	android:host
+		ADDED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:46:21-56
+	android:scheme
+		ADDED from [com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:47:21-47
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:33:13-43:29
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:69:25-86
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\2ebf2a67f3cb2538455b4f3d737e5ec9\play-services-measurement-api-18.0.2\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\2ebf2a67f3cb2538455b4f3d737e5ec9\play-services-measurement-api-18.0.2\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\faa12682808aca914f0356ce3b2a73aa\firebase-installations-16.3.5\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\faa12682808aca914f0356ce3b2a73aa\firebase-installations-16.3.5\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:33:9-46:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:33:9-46:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:76:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:75:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:78:17-109
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\2ebf2a67f3cb2538455b4f3d737e5ec9\play-services-measurement-api-18.0.2\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\2ebf2a67f3cb2538455b4f3d737e5ec9\play-services-measurement-api-18.0.2\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\2ebf2a67f3cb2538455b4f3d737e5ec9\play-services-measurement-api-18.0.2\AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\faa12682808aca914f0356ce3b2a73aa\firebase-installations-16.3.5\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\faa12682808aca914f0356ce3b2a73aa\firebase-installations-16.3.5\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\faa12682808aca914f0356ce3b2a73aa\firebase-installations-16.3.5\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
+meta-data#com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar
+ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dfaef8b9e72bd01d06d0dc86b3251505\play-services-auth-19.0.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dfaef8b9e72bd01d06d0dc86b3251505\play-services-auth-19.0.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dfaef8b9e72bd01d06d0dc86b3251505\play-services-auth-19.0.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dfaef8b9e72bd01d06d0dc86b3251505\play-services-auth-19.0.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dfaef8b9e72bd01d06d0dc86b3251505\play-services-auth-19.0.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dfaef8b9e72bd01d06d0dc86b3251505\play-services-auth-19.0.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dfaef8b9e72bd01d06d0dc86b3251505\play-services-auth-19.0.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dfaef8b9e72bd01d06d0dc86b3251505\play-services-auth-19.0.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dfaef8b9e72bd01d06d0dc86b3251505\play-services-auth-19.0.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dfaef8b9e72bd01d06d0dc86b3251505\play-services-auth-19.0.0\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\64bcb6444e11a926f4391a45b0a023fa\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\64bcb6444e11a926f4391a45b0a023fa\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\64bcb6444e11a926f4391a45b0a023fa\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\64bcb6444e11a926f4391a45b0a023fa\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\ed819be9eab936aa8ae49a502e1eb5af\play-services-measurement-impl-18.0.2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\ed819be9eab936aa8ae49a502e1eb5af\play-services-measurement-impl-18.0.2\AndroidManifest.xml:26:5-110
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f9da74d3852297c72dfcd1385a860318\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f9da74d3852297c72dfcd1385a860318\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f228aaacfae1b107b592e1b726979248\jetified-play-services-basement-17.1.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f228aaacfae1b107b592e1b726979248\jetified-play-services-basement-17.1.1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f228aaacfae1b107b592e1b726979248\jetified-play-services-basement-17.1.1\AndroidManifest.xml:24:13-58
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fbd1bdaf70a2db0fea009063bcb82ed8\jetified-facebook-core-8.2.0\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fbd1bdaf70a2db0fea009063bcb82ed8\jetified-facebook-core-8.2.0\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fbd1bdaf70a2db0fea009063bcb82ed8\jetified-facebook-core-8.2.0\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fbd1bdaf70a2db0fea009063bcb82ed8\jetified-facebook-core-8.2.0\AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fbd1bdaf70a2db0fea009063bcb82ed8\jetified-facebook-core-8.2.0\AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fbd1bdaf70a2db0fea009063bcb82ed8\jetified-facebook-core-8.2.0\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fbd1bdaf70a2db0fea009063bcb82ed8\jetified-facebook-core-8.2.0\AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fbd1bdaf70a2db0fea009063bcb82ed8\jetified-facebook-core-8.2.0\AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fbd1bdaf70a2db0fea009063bcb82ed8\jetified-facebook-core-8.2.0\AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fbd1bdaf70a2db0fea009063bcb82ed8\jetified-facebook-core-8.2.0\AndroidManifest.xml:48:25-92

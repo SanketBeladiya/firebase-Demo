@@ -1,0 +1,356 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.firebaseotp1"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:3:3-65
+11-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:3:20-62
+12    <uses-permission android:name="android.permission.WAKE_LOCK" />
+12-->[:react-native-firebase_auth] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-68
+12-->[:react-native-firebase_auth] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:22-65
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[:react-native-firebase_auth] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-79
+13-->[:react-native-firebase_auth] C:\Users\Sanket.Beladiya\Documents\firebaseOtp\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:22-76
+14    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+14-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:26:5-110
+14-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:26:22-107
+15
+16    <application
+16-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:5:3-15:17
+17        android:name="com.firebaseotp1.MainApplication"
+17-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:5:16-63
+18        android:allowBackup="false"
+18-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:5:178-205
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\62b948af8f2998775b21565bc31de6c6\core-1.1.0\AndroidManifest.xml:24:18-86
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:5:97-131
+21        android:label="@string/app_name"
+21-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:5:64-96
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:5:132-177
+23        android:supportsRtl="true"
+23-->[com.facebook.android:facebook-android-sdk:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f8ce798eda1128582238cb3ff7bd544f\facebook-android-sdk-7.1.0\AndroidManifest.xml:28:18-44
+24        android:theme="@style/AppTheme" >
+24-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:5:206-237
+25        <meta-data
+25-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:6:5-104
+26            android:name="com.facebook.sdk.ApplicationId"
+26-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:6:16-61
+27            android:value="@string/facebook_app_id" />
+27-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:6:62-101
+28
+29        <activity
+29-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:7:5-12:16
+30            android:name="com.firebaseotp1.MainActivity"
+30-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:7:15-59
+31            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+31-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:7:93-170
+32            android:label="@string/app_name"
+32-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:7:60-92
+33            android:launchMode="singleTask"
+33-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:7:171-202
+34            android:windowSoftInputMode="adjustResize" >
+34-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:7:203-245
+35            <intent-filter>
+35-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:8:7-11:23
+36                <action android:name="android.intent.action.MAIN" />
+36-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:9:9-61
+36-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:9:17-58
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:10:9-69
+38-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:10:19-66
+39            </intent-filter>
+40        </activity>
+41        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+41-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:13:5-82
+41-->C:\Users\Sanket.Beladiya\Documents\firebaseOtp\android\app\src\main\AndroidManifest.xml:13:15-79
+42        <activity
+42-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:30:9-33:66
+43            android:name="com.facebook.FacebookActivity"
+43-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:31:13-57
+44            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+44-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:32:13-96
+45            android:theme="@style/com_facebook_activity_theme" />
+45-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:33:13-63
+46        <activity android:name="com.facebook.CustomTabMainActivity" />
+46-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:34:9-71
+46-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:34:19-68
+47        <activity
+47-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:35:9-49:20
+48            android:name="com.facebook.CustomTabActivity"
+48-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:36:13-58
+49            android:exported="true" >
+49-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:37:13-36
+50            <intent-filter>
+50-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:39:13-48:29
+51                <action android:name="android.intent.action.VIEW" />
+51-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:40:17-69
+51-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:40:25-66
+52
+53                <category android:name="android.intent.category.DEFAULT" />
+53-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:42:17-76
+53-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:42:27-73
+54                <category android:name="android.intent.category.BROWSABLE" />
+54-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:43:17-78
+54-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:43:27-75
+55
+56                <data
+56-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:45:17-47:50
+57                    android:host="cct.com.firebaseotp1"
+57-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:46:21-56
+58                    android:scheme="fbconnect" />
+58-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:47:21-47
+59            </intent-filter>
+60        </activity>
+61        <activity
+61-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:27:9-44:20
+62            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+62-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:28:13-80
+63            android:excludeFromRecents="true"
+63-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:29:13-46
+64            android:exported="true"
+64-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:30:13-36
+65            android:launchMode="singleTask"
+65-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:31:13-44
+66            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+66-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:32:13-72
+67            <intent-filter>
+67-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:33:13-43:29
+68                <action android:name="android.intent.action.VIEW" />
+68-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:40:17-69
+68-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:40:25-66
+69
+70                <category android:name="android.intent.category.DEFAULT" />
+70-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:42:17-76
+70-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:42:27-73
+71                <category android:name="android.intent.category.BROWSABLE" />
+71-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:43:17-78
+71-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:43:27-75
+72
+73                <data
+73-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:45:17-47:50
+74                    android:host="firebase.auth"
+74-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:46:21-56
+75                    android:path="/"
+76                    android:scheme="genericidp" />
+76-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:47:21-47
+77            </intent-filter>
+78        </activity>
+79        <activity
+79-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:45:9-62:20
+80            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+80-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:46:13-79
+81            android:excludeFromRecents="true"
+81-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:47:13-46
+82            android:exported="true"
+82-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:48:13-36
+83            android:launchMode="singleTask"
+83-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:49:13-44
+84            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+84-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:50:13-72
+85            <intent-filter>
+85-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:51:13-61:29
+86                <action android:name="android.intent.action.VIEW" />
+86-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:40:17-69
+86-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:40:25-66
+87
+88                <category android:name="android.intent.category.DEFAULT" />
+88-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:42:17-76
+88-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:42:27-73
+89                <category android:name="android.intent.category.BROWSABLE" />
+89-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:43:17-78
+89-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:43:27-75
+90
+91                <data
+91-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:45:17-47:50
+92                    android:host="firebase.auth"
+92-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:46:21-56
+93                    android:path="/"
+94                    android:scheme="recaptcha" />
+94-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:47:21-47
+95            </intent-filter>
+96        </activity>
+97
+98        <service
+98-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:64:9-73:19
+99            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
+99-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:65:13-101
+100            android:enabled="true"
+100-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:66:13-35
+101            android:exported="false" >
+101-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:67:13-37
+102            <intent-filter>
+102-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:68:13-72:29
+103                <action android:name="com.google.firebase.auth.api.gms.service.START" />
+103-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:69:17-89
+103-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:69:25-86
+104
+105                <category android:name="android.intent.category.DEFAULT" />
+105-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:42:17-76
+105-->[com.facebook.android:facebook-common:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\0fd59cacd48a1ce51a11c5c52a3d615c\facebook-common-8.2.0\AndroidManifest.xml:42:27-73
+106            </intent-filter>
+107        </service>
+108        <service
+108-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:74:9-80:19
+109            android:name="com.google.firebase.components.ComponentDiscoveryService"
+109-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:75:13-84
+110            android:directBootAware="true"
+110-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+111            android:exported="false" >
+111-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:76:13-37
+112            <meta-data
+112-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:77:13-79:85
+113                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+113-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:78:17-109
+114                android:value="com.google.firebase.components.ComponentRegistrar" />
+114-->[com.google.firebase:firebase-auth:20.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a259d166b899a68459e9ca4bbfa649f0\jetified-firebase-auth-20.0.2\AndroidManifest.xml:79:17-82
+115            <meta-data
+115-->[com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\2ebf2a67f3cb2538455b4f3d737e5ec9\play-services-measurement-api-18.0.2\AndroidManifest.xml:30:13-32:85
+116                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+116-->[com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\2ebf2a67f3cb2538455b4f3d737e5ec9\play-services-measurement-api-18.0.2\AndroidManifest.xml:31:17-139
+117                android:value="com.google.firebase.components.ComponentRegistrar" />
+117-->[com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\2ebf2a67f3cb2538455b4f3d737e5ec9\play-services-measurement-api-18.0.2\AndroidManifest.xml:32:17-82
+118            <meta-data
+118-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\faa12682808aca914f0356ce3b2a73aa\firebase-installations-16.3.5\AndroidManifest.xml:18:13-20:85
+119                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+119-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\faa12682808aca914f0356ce3b2a73aa\firebase-installations-16.3.5\AndroidManifest.xml:19:17-127
+120                android:value="com.google.firebase.components.ComponentRegistrar" />
+120-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\faa12682808aca914f0356ce3b2a73aa\firebase-installations-16.3.5\AndroidManifest.xml:20:17-82
+121            <!--
+122                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+123                clients to use it as well, by defining this registrar in their own core/common library.
+124            -->
+125            <meta-data
+125-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
+126                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+126-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
+127                android:value="com.google.firebase.components.ComponentRegistrar" />
+127-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
+128        </service>
+129
+130        <provider
+130-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+131            android:name="com.google.firebase.provider.FirebaseInitProvider"
+131-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
+132            android:authorities="com.firebaseotp1.firebaseinitprovider"
+132-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+133            android:directBootAware="true"
+133-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+134            android:exported="false"
+134-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+135            android:initOrder="100" />
+135-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\e9233e354aa3783f13b1db8c253d3707\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+136
+137        <activity
+137-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dfaef8b9e72bd01d06d0dc86b3251505\play-services-auth-19.0.0\AndroidManifest.xml:23:9-27:75
+138            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+138-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dfaef8b9e72bd01d06d0dc86b3251505\play-services-auth-19.0.0\AndroidManifest.xml:24:13-93
+139            android:excludeFromRecents="true"
+139-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dfaef8b9e72bd01d06d0dc86b3251505\play-services-auth-19.0.0\AndroidManifest.xml:25:13-46
+140            android:exported="false"
+140-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dfaef8b9e72bd01d06d0dc86b3251505\play-services-auth-19.0.0\AndroidManifest.xml:26:13-37
+141            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+141-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dfaef8b9e72bd01d06d0dc86b3251505\play-services-auth-19.0.0\AndroidManifest.xml:27:13-72
+142        <!--
+143            Service handling Google Sign-In user revocation. For apps that do not integrate with
+144            Google Sign-In, this service will never be started.
+145        -->
+146        <service
+146-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dfaef8b9e72bd01d06d0dc86b3251505\play-services-auth-19.0.0\AndroidManifest.xml:33:9-37:51
+147            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+147-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dfaef8b9e72bd01d06d0dc86b3251505\play-services-auth-19.0.0\AndroidManifest.xml:34:13-89
+148            android:exported="true"
+148-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dfaef8b9e72bd01d06d0dc86b3251505\play-services-auth-19.0.0\AndroidManifest.xml:35:13-36
+149            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+149-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dfaef8b9e72bd01d06d0dc86b3251505\play-services-auth-19.0.0\AndroidManifest.xml:36:13-107
+150            android:visibleToInstantApps="true" />
+150-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\dfaef8b9e72bd01d06d0dc86b3251505\play-services-auth-19.0.0\AndroidManifest.xml:37:13-48
+151
+152        <activity
+152-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\64bcb6444e11a926f4391a45b0a023fa\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+153            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+153-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\64bcb6444e11a926f4391a45b0a023fa\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+154            android:exported="false"
+154-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\64bcb6444e11a926f4391a45b0a023fa\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+155            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+155-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\64bcb6444e11a926f4391a45b0a023fa\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+156
+157        <receiver
+157-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:29:9-33:20
+158            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+158-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:30:13-85
+159            android:enabled="true"
+159-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:31:13-35
+160            android:exported="false" >
+160-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:32:13-37
+161        </receiver>
+162
+163        <service
+163-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:35:9-38:40
+164            android:name="com.google.android.gms.measurement.AppMeasurementService"
+164-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:36:13-84
+165            android:enabled="true"
+165-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:37:13-35
+166            android:exported="false" />
+166-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:38:13-37
+167        <service
+167-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:39:9-43:72
+168            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+168-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:40:13-87
+169            android:enabled="true"
+169-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:41:13-35
+170            android:exported="false"
+170-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:42:13-37
+171            android:permission="android.permission.BIND_JOB_SERVICE" />
+171-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\a2e7269d86bf8932fc6738e5de6a55b0\play-services-measurement-18.0.2\AndroidManifest.xml:43:13-69
+172
+173        <meta-data
+173-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f228aaacfae1b107b592e1b726979248\jetified-play-services-basement-17.1.1\AndroidManifest.xml:23:9-25:69
+174            android:name="com.google.android.gms.version"
+174-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f228aaacfae1b107b592e1b726979248\jetified-play-services-basement-17.1.1\AndroidManifest.xml:24:13-58
+175            android:value="@integer/google_play_services_version" />
+175-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\f228aaacfae1b107b592e1b726979248\jetified-play-services-basement-17.1.1\AndroidManifest.xml:25:13-66
+176        <!--
+177         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+178         with the application context. This config is merged in with the host app's manifest,
+179         but there can only be one provider with the same authority activated at any given
+180         point; so if the end user has two or more different apps that use Facebook SDK, only the
+181         first one will be able to use the provider. To work around this problem, we use the
+182         following placeholder in the authority to identify each host application as if it was
+183         a completely different provider.
+184        -->
+185        <provider
+185-->[com.facebook.android:facebook-core:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fbd1bdaf70a2db0fea009063bcb82ed8\jetified-facebook-core-8.2.0\AndroidManifest.xml:39:9-42:40
+186            android:name="com.facebook.internal.FacebookInitProvider"
+186-->[com.facebook.android:facebook-core:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fbd1bdaf70a2db0fea009063bcb82ed8\jetified-facebook-core-8.2.0\AndroidManifest.xml:40:13-70
+187            android:authorities="com.firebaseotp1.FacebookInitProvider"
+187-->[com.facebook.android:facebook-core:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fbd1bdaf70a2db0fea009063bcb82ed8\jetified-facebook-core-8.2.0\AndroidManifest.xml:41:13-72
+188            android:exported="false" />
+188-->[com.facebook.android:facebook-core:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fbd1bdaf70a2db0fea009063bcb82ed8\jetified-facebook-core-8.2.0\AndroidManifest.xml:42:13-37
+189
+190        <receiver
+190-->[com.facebook.android:facebook-core:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fbd1bdaf70a2db0fea009063bcb82ed8\jetified-facebook-core-8.2.0\AndroidManifest.xml:44:9-50:20
+191            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+191-->[com.facebook.android:facebook-core:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fbd1bdaf70a2db0fea009063bcb82ed8\jetified-facebook-core-8.2.0\AndroidManifest.xml:45:13-86
+192            android:exported="false" >
+192-->[com.facebook.android:facebook-core:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fbd1bdaf70a2db0fea009063bcb82ed8\jetified-facebook-core-8.2.0\AndroidManifest.xml:46:13-37
+193            <intent-filter>
+193-->[com.facebook.android:facebook-core:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fbd1bdaf70a2db0fea009063bcb82ed8\jetified-facebook-core-8.2.0\AndroidManifest.xml:47:13-49:29
+194                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+194-->[com.facebook.android:facebook-core:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fbd1bdaf70a2db0fea009063bcb82ed8\jetified-facebook-core-8.2.0\AndroidManifest.xml:48:17-95
+194-->[com.facebook.android:facebook-core:8.2.0] C:\Users\Sanket.Beladiya\.gradle\caches\transforms-2\files-2.1\fbd1bdaf70a2db0fea009063bcb82ed8\jetified-facebook-core-8.2.0\AndroidManifest.xml:48:25-92
+195            </intent-filter>
+196        </receiver>
+197    </application>
+198
+199</manifest>

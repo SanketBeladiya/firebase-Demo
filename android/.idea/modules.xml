@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firebaseOtp.iml" filepath="$PROJECT_DIR$/.idea/modules/firebaseOtp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/firebaseOtp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/firebaseOtp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1031812757/firebaseOtp.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1031812757/firebaseOtp.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1246450820/firebaseOtp.react-native-fbsdk.iml" filepath="$PROJECT_DIR$/.idea/modules/1246450820/firebaseOtp.react-native-fbsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1396443217/firebaseOtp.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1396443217/firebaseOtp.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1086991462/firebaseOtp.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-1086991462/firebaseOtp.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/146992588/firebaseOtp.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/146992588/firebaseOtp.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1094664400/firebaseOtp.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1094664400/firebaseOtp.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/177324853/firebaseOtp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/177324853/firebaseOtp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1190703501/firebaseOtp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1190703501/firebaseOtp.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>
